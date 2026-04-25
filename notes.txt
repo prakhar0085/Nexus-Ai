@@ -1,0 +1,20 @@
+This is a sophisticated AI project that blends voice interactivity with a modular, extensible "brain" using the latest protocols. Here are a few high-impact bullet points and a description you can use for your resume:
+
+Project: F.R.I.D.A.Y. — Voice-Integrated Agentic AI Ecosystem
+Description: Developed a real-time, Tony Stark-inspired AI voice assistant (F.R.I.D.A.Y.) that utilizes a multi-agent architecture to perform web intelligence gathering, system monitoring, and desktop automation. The project is split into a High-Performance Voice Pipeline and a Modular MCP Server Backend, allowing for seamless extension of the assistant's capabilities through standardized protocols.
+
+Technical Highlight Bullet Points:
+
+Architected a Modular Tool-Use Backend using FastMCP (Model Context Protocol), enabling an LLM (Gemini 2.5 Flash) to dynamically execute Python-based tools for real-time web search, RSS news aggregation, and system control.
+Engineered a Low-Latency Voice Pipeline leveraging LiveKit Agents, integrating asynchronous Speech-to-Text (Sarvam Saaras v3) and Text-to-Speech (OpenAI Nova/Deepgram) for natural, human-like voice-to-voice interaction.
+Implemented Sophisticated Intent Recognition and state management within the voice agent to handle complex interruptions, tool calls, and persona-driven responses.
+Designed a Technical HUD Dashboard using Vanilla CSS and Glassmorphism, integrating a live data synchronization layer that fetches and displays real-world intelligence feeds and system telemetry.
+Optimized Resource Resolution for cross-environment deployment (WSL to Windows Host), implementing auto-resolv network logic to maintain stable SSE connections between the agent and the MCP server.
+Core Tech Stack:
+
+Backend: Python 3.11+, FastMCP, SSE (Server-Sent Events), uv package manager.
+AI/LLM: Google Gemini 2.5 Flash, Groq (Llama 3.1), LiveKit Agents.
+Voice Pipeline: Deepgram, Sarvam Saaras v3, OpenAI TTS.
+Frontend (HUD): HTML5, CSS3 (Advanced animations & glassmorphism), JavaScript.
+Pro-tip for the Resume:
+If you're applying for AI Engineer or Full-Stack Developer roles, emphasize the MCP (Model Context Protocol) part. It's a cutting-edge standard released by Anthropic and being adopted across the industry for how LLMs talk to external tools—knowing your way around it is a huge green flag for recruiters right now!

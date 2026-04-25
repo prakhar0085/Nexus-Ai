@@ -11,6 +11,8 @@ A Nexus AI assistant split into two cooperating pieces:
 
 
 ---
+# Architecture Diagram 
+![Architecture Diagram](./assests/nexus.png)
 
 ## How it works
 

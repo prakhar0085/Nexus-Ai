@@ -1,4 +1,4 @@
-# F.R.I.D.A.Y. — Tony Stark Demo
+# N.E.X.U.S
 
 > *"Fully Responsive Intelligent Digital Assistant for You"*
 
